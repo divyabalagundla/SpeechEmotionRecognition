@@ -2,8 +2,7 @@ import os
 import librosa
 import numpy as np
 import pandas as pd
-
-DATASET_PATH = "dataset"
+DATASET_PATH = r"C:\Users\divya\OneDrive\Desktop\SpeechEmotionRecognition\dataset"
 
 emotion_map = {
     "01": "neutral",
